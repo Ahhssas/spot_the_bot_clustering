@@ -12,4 +12,5 @@
 - [hdbscan_train.csv](https://github.com/Ahhssas/spot_the_bot_clustering/blob/main/sets/hdbscan_train.csv) и [hdbscan_test.csv](https://github.com/Ahhssas/spot_the_bot_clustering/blob/main/sets/hdbscan_test.csv) -- тексты разной длины для HBDSCAN
 
 ### ноутбуки:
-- 
+- [K_means](https://github.com/Ahhssas/spot_the_bot_clustering/blob/main/K_means_clusterization.ipynb)
+- [HDBSCAN](https://github.com/Ahhssas/spot_the_bot_clustering/blob/main/HDBSCAN_clusterization.ipynb)
